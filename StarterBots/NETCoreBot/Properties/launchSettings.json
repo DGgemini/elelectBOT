@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Token": "db57e66f-bf9a-4e48-91e8-63dd56b22acb"
+      }
+    }
+  }
+}
